@@ -1,0 +1,12 @@
+site_name: Miguel Vallet
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
+  - Practica1: /docs/exercici1_MiguelVallet.pdf
+  - Practica2: /docs/exercici2_MiguelVallet.pdf
+  - Practica3: /docs/pracica1_MiguelVallet.pdf
+  - Practica4: /docs/PullRequest_MiguelVallet.pdf
+  - Practica5: /docs/Practica3_MiguelVallet.pdf
+  - Practica6: /docs/exercici6_MiguelVallet.pdf
